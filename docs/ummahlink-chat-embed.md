@@ -1,6 +1,6 @@
 # Ummahlink Chat Embed
 
-Clients can add a direct chat panel to an existing application with one script tag. The script creates a floating launcher and opens the same public chat experience in an iframe.
+The deployed Tennahubsprema project exposes two routes: `/workspace` for private workspace access and `/chat` for public conversations. Clients can add a direct chat panel to an existing application with one script tag. The script creates a floating launcher and opens the public `/chat` experience in an iframe.
 
 ```html
 <script
